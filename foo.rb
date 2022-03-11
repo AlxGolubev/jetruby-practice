@@ -1,1 +1,1 @@
-puts "Hello foo"
+print "Hello foo"
